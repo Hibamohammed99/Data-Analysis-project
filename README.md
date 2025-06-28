@@ -43,7 +43,7 @@ Each query explored a specific aspect of the data job market. Here are some of t
 
 <br>
 
-![Top Paying Roles](assets\top_paying_roles.PNG)
+![Top Paying Roles](top_paying_roles.PNG)
 
 <br>
 
