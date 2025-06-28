@@ -17,6 +17,6 @@ GROUP BY  skills_dim.skill_id
 having
  count(skills_job_dim.job_id) > 10
 ORDER BY 
-demand_count DESC,
-avg_salary DESC 
-LIMIT 10
+avg_salary DESC ,demand_count DESC
+
+LIMIT 20

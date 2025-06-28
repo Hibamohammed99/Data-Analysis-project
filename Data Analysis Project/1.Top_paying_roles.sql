@@ -3,7 +3,8 @@ SELECT
     company_dim.name AS Company_name,
     job_location AS Location,
     job_title_short AS job_title,
-    salary_year_avg AS salary
+    salary_year_avg AS salary,
+    job_title
 FROM    
     job_postings_fact 
 LEFT JOIN 
